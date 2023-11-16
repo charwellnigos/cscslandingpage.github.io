@@ -57,7 +57,7 @@
     width: 400px;
 }
 .stat-text{
-    font-size: 35px;
+    font-size: 45px;
     color: #132CD8;
 }
 .stat-text :hover{
@@ -87,8 +87,8 @@
 button{
    display: flex;
    justify-content: center;
-    width: 300px;
-    height: 50px;
+    width: 250px;
+    height: 40px;
     align-items: center;
 }
 
