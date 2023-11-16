@@ -61,12 +61,11 @@
     color: #132CD8;
 }
 .stat-text :hover{
-    font-size: larger;
+    color: #132CD8;
 }
 
 .button :hover{
-       font-size: large;
-       color: rgb(0, 0, 0);
+       color: #132CD8;
 }
 .clearance{
     padding: 20px;
