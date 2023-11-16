@@ -282,7 +282,6 @@ button{
         transform: scale(1.1);
     }
 }
-.diagram-pic:hover{ animation : scale 3s ease infinite}
 .tag-pic:hover{ animation : scale 3s ease infinite}
 .s1:hover{ animation : scale 3s ease infinite}
 .s2:hover{ animation : scale 3s ease infinite}
